@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arware07
 - 👀 I’m interested in learn APS.NET, REACT and a DataBases...
-- 🌱 I’m currently learning REACTJS in the university and courses by myself I really excited in learn new ways to 
+- 🌱 I really excited in learn new ways to 
 - immprove day to day.
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!-- 📫 How to reach me ...--->
